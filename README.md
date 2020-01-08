@@ -1,6 +1,6 @@
 # PetSpiration
 
-Deployed on Github Pages at [https://bferriman.github.io/pet-spiration/](https://bferriman.github.io/pet-spiration/)
+Deployed on Github Pages at [https://grlucy.github.io/pet-spiration/](https://grlucy.github.io/pet-spiration/)
 
 ## Description
 
